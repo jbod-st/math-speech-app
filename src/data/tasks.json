@@ -1,8 +1,22 @@
 [
-    { "id": 1, "question": "2 + 2", "answer": "4", "level": 1 },
-    { "id": 2, "question": "5 x 3", "answer": "15", "level": 2 },
-    { "id": 3, "question": "12 ÷ 4", "answer": "3", "level": 2 },
-    { "id": 4, "question": "25 + 17", "answer": "42", "level": 3 },
-    { "id": 5, "question": "7 x 8", "answer": "56", "level": 3 }
-  ]
-  
+  { "id": 1, "question": "2 + 2", "answer": "4", "level": 1 },
+  { "id": 9, "question": "4 - 2", "answer": "2", "level": 1 },
+  { "id": 2, "question": "5 * 3", "answer": "15", "level": 2 },
+  { "id": 3, "question": "12 / 4", "answer": "3", "level": 2 },
+  { "id": 4, "question": "25 + 17", "answer": "42", "level": 3 },
+  { "id": 5, "question": "7 + 8", "answer": "15", "level": 1 },
+  { "id": 6, "question": "7 * 8", "answer": "56", "level": 3 },
+  { "id": 7, "question": "9 * 7", "answer": "63", "level": 3 },
+  { "id": 8, "question": "72 / 8", "answer": "9", "level": 3 },
+  { "id": 10, "question": "50 + 25", "answer": "75", "level": 4 },
+  { "id": 11, "question": "90 - 45", "answer": "45", "level": 4 },
+  { "id": 12, "question": "12 * 12", "answer": "144", "level": 5 },
+  { "id": 13, "question": "144 / 12", "answer": "12", "level": 5 },
+  { "id": 14, "question": "100 - 33", "answer": "67", "level": 4 },
+  { "id": 15, "question": "15 + 36", "answer": "51", "level": 4 },
+  { "id": 16, "question": "18 * 7", "answer": "126", "level": 5 },
+  { "id": 17, "question": "25 * 4", "answer": "100", "level": 5 },
+  { "id": 18, "question": "121 - 44", "answer": "77", "level": 4 },
+  { "id": 19, "question": "300 / 5", "answer": "60", "level": 5 },
+  { "id": 20, "question": "84 + 76", "answer": "160", "level": 5 }
+]

@@ -30,4 +30,28 @@ body {
   button:hover {
     background-color: #0056b3;
   }
+
+  .start-screen {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .start-screen h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .start-screen button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .start-screen button:hover {
+    background-color: #0056b3;
+  }
   
